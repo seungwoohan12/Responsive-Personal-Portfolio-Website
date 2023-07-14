@@ -8,15 +8,10 @@
 <br />
 <br />
 ## 💻 이용한 기술 스택
- <img src="https://img.shields.io/badge/Kotlin-A8C0C6?style=flat&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-8C34FB?style=flat&logo=AndroidStudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FC0101?style=flat&logo=Firebase&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-DD63D1?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript(Beginner)-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  
-## 주요 요구 사항
-1. 기획 및 UI 디자인
-2. 동선 계산 방법 자체 개발
-3. Firebase를 통한 유저 및 데이터 관리와 Hosting
-4. 공공데이터, 카카오 지도 활용
-5. Play Store, One Store 출시
+## 기능 소개
+1. 이 프로젝트는 반응형 웹 포트폴리오 사이트를 제작하는 것 입니다.
+2. 이 사이트는 PC와 모바일에서 모두 잘 보이도록 제작되었습니다.
 
 <br />
